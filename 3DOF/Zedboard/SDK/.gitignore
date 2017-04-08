@@ -1,0 +1,7 @@
+*.o
+*.d
+
+.metadata/
+.sdk/
+RemoteSystemsTempFiles/
+SDK.txt
